@@ -96,3 +96,20 @@ https://qiita.com/opengl-8080/items/eb3bf3b5301bae398cc2
 ・HTML5タグリファレンス
 
 http://www.htmq.com/html5/meta.shtml
+
+・package宣言
+
+https://java-code.jp/91
+
+・クラスの使用
+org.springframework.stereotype.Controller
+
+https://spring.pleiades.io/spring-framework/docs/current/javadoc-api/org/springframework/stereotype/class-use/Controller.html
+
+・Spring Boot解説第18回(基本編：Controllerとは)
+
+https://qiita.com/TEBASAKI/items/267c261db17f178e33eb
+
+・SpringにおけるModelとModelAndViewの違い
+
+https://reasonable-code.com/model-modelandview/
