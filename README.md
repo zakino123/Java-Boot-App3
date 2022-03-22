@@ -88,3 +88,11 @@ https://dev.classmethod.jp/articles/spring-initializr-with-curl/
 ・7.7. ボイラープレートコードの排除(Lombok)
 
 https://terasolunaorg.github.io/guideline/5.0.0.RELEASE/ja/Appendix/Lombok.html#lombok
+
+・Spring Boot で Thymeleaf 使い方メモ
+
+https://qiita.com/opengl-8080/items/eb3bf3b5301bae398cc2
+
+・HTML5タグリファレンス
+
+http://www.htmq.com/html5/meta.shtml
