@@ -2,6 +2,11 @@
 「docker-compose 下で Java + Spring Boot 環境を作ってみる | Zenn | 北山淳也」の記事を参考に構築
 
 ## ビルド方法
+1. `docker-compose up -d`
+
+2. `docker-compose exec app bash`
+
+3. `java -jar build/libs/api-0.0.1-SNAPSHOT.jar`
 
 ## 参考資料
 ・docker-compose 下で Java + Spring Boot 環境を作ってみる | Zenn | 北山淳也
@@ -67,3 +72,19 @@ https://qiita.com/gate9/items/7351557829d7e1e668e9
 ・OpenJDK | DockerHub
 
 https://hub.docker.com/_/openjdk
+
+・sh - シェルを起動する
+
+https://www.ibm.com/docs/ja/zos/2.3.0?topic=descriptions-sh-invoke-shell
+
+・【初心者でもすぐわかる】javaコマンドの使い方まとめ
+
+https://eng-entrance.com/java-command#jar
+
+・curlを通してSpring Initializrを利用する
+
+https://dev.classmethod.jp/articles/spring-initializr-with-curl/
+
+・7.7. ボイラープレートコードの排除(Lombok)
+
+https://terasolunaorg.github.io/guideline/5.0.0.RELEASE/ja/Appendix/Lombok.html#lombok
