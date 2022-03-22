@@ -113,3 +113,11 @@ https://qiita.com/TEBASAKI/items/267c261db17f178e33eb
 ・SpringにおけるModelとModelAndViewの違い
 
 https://reasonable-code.com/model-modelandview/
+
+・docker-compose 下で Java + Spring Boot + 簡単なWeb API を作ってみる | Zenn | 北山淳也
+
+https://zenn.dev/junki555/articles/a19f27d1045805
+
+・【Spring】@Controllerと@RestControllerの違い
+
+http://memento-mori-blog.com/spring-controller-restcontroller/
