@@ -59,3 +59,11 @@ https://qiita.com/YumaInaura/items/39abf610dc322e83d5b3
 ・【pwd】Linuxでカレントディレクトリを表示するコマンド
 
 https://uxmilk.jp/27622#:~:text=pwd%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AF%E3%80%81%E7%8F%BE%E5%9C%A8%E3%81%AE,%E3%81%AA%E3%81%A9%E3%81%AF%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82&text=pwd%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AEpwd%E3%81%AF,%E3%81%A8%E8%A8%80%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82
+
+・Spring FrameworkとSpring Bootのいろんな対応表
+
+https://qiita.com/gate9/items/7351557829d7e1e668e9
+
+・OpenJDK | DockerHub
+
+https://hub.docker.com/_/openjdk
