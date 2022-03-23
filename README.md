@@ -121,3 +121,11 @@ https://zenn.dev/junki555/articles/a19f27d1045805
 ・【Spring】@Controllerと@RestControllerの違い
 
 http://memento-mori-blog.com/spring-controller-restcontroller/
+
+・【Java(Spring Boot)】@RequestBodyとは
+
+https://qiita.com/mzmz__02/items/d8b8aee68932574517d5
+
+・よく使うcurlコマンドのオプション
+
+https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9
