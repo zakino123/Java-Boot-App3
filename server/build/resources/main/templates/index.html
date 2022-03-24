@@ -13,5 +13,21 @@
   <h1 th:text="'これはThymeleafですか？'">html-見出し1</h1>
   <p>はい、SpringBootで推奨されています。</p>
   <div th:text="'Hello, ' + ${target} + '!!'"></div>
+  <button type="button" id="button_get">Fetch API : GET</button>
+
+  <script>
+    const button_get = document.getElementById('button_get');
+    button_get.addEventListener('click',function(){
+      fetch('/', {
+        method: 'GET'
+      })
+      .then(function(response){
+        window.alert('Fetch GET!' + response.status);
+      })
+      .catch(function(response){
+        window.alert('Fetch GET!' + response.status);
+      })
+    });
+  </script>
 </body>
 </html>
