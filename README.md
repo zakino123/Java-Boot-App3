@@ -129,3 +129,7 @@ https://qiita.com/mzmz__02/items/d8b8aee68932574517d5
 ・よく使うcurlコマンドのオプション
 
 https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9
+
+・Fetch の使用
+
+https://developer.mozilla.org/ja/docs/Web/API/Fetch_API/Using_Fetch

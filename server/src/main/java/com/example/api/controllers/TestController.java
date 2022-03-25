@@ -23,7 +23,7 @@ public class TestController {
 
   @RequestMapping(path = "/test/post", method = RequestMethod.POST)
   // アプリが投稿を受け取るための作業のために@RequestBodyをつける
-  public Example testPost(@RequestBody Example requestPOJO) {
+  public Example testPost(@RequestBody(required=false) Example requestPOJO) {
     requestPOJO.value1 = requestPOJO.value1 + ":AddServer";
     requestPOJO.value2 = requestPOJO.value2 + ":AddServer";
     return requestPOJO;
